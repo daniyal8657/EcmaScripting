@@ -2,6 +2,7 @@
 const AddNumbersOpt=(num1, num2)=> num1+num2;
 const SubsNumber = (num1, num2) => num1-num2;
 const MultpNumber = (num1, num2) => num1*num2;
+const DiviNumber = (num1,num2) => num1/num2;
 
 
 console.log(AddNumbersOpt(7,8));
@@ -17,3 +18,5 @@ Sum of
 70 * 30 = ${MultpNumber(70,30)}
 
 &&&&&&&&&&`);
+
+console.log(DiviNumber(8,2));

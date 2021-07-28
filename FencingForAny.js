@@ -6,5 +6,5 @@ const FencingForAny = ( Edges, NumOfWire, Rate) => {
 return sum * NumOfWire * Rate;
 };
 
-console.log(FencingForAny{34,24,53,75}, 12 ,10);
+console.log(FencingForAny([22], 12 ,10));
 
